@@ -1,28 +1,29 @@
 {
   "files": {
     "main.css": "/AttentionBoardC3/static/css/main.1728fe4f.chunk.css",
-    "main.js": "/AttentionBoardC3/static/js/main.120e3359.chunk.js",
-    "main.js.map": "/AttentionBoardC3/static/js/main.120e3359.chunk.js.map",
+    "main.js": "/AttentionBoardC3/static/js/main.90afb918.chunk.js",
+    "main.js.map": "/AttentionBoardC3/static/js/main.90afb918.chunk.js.map",
     "runtime-main.js": "/AttentionBoardC3/static/js/runtime-main.0186d7df.js",
     "runtime-main.js.map": "/AttentionBoardC3/static/js/runtime-main.0186d7df.js.map",
-    "static/js/2.adf69702.chunk.js": "/AttentionBoardC3/static/js/2.adf69702.chunk.js",
-    "static/js/2.adf69702.chunk.js.map": "/AttentionBoardC3/static/js/2.adf69702.chunk.js.map",
+    "static/js/2.3bdea268.chunk.js": "/AttentionBoardC3/static/js/2.3bdea268.chunk.js",
+    "static/js/2.3bdea268.chunk.js.map": "/AttentionBoardC3/static/js/2.3bdea268.chunk.js.map",
     "static/js/3.d420fe65.chunk.js": "/AttentionBoardC3/static/js/3.d420fe65.chunk.js",
     "static/js/3.d420fe65.chunk.js.map": "/AttentionBoardC3/static/js/3.d420fe65.chunk.js.map",
     "index.html": "/AttentionBoardC3/index.html",
     "static/css/main.1728fe4f.chunk.css.map": "/AttentionBoardC3/static/css/main.1728fe4f.chunk.css.map",
-    "static/js/2.adf69702.chunk.js.LICENSE.txt": "/AttentionBoardC3/static/js/2.adf69702.chunk.js.LICENSE.txt",
+    "static/js/2.3bdea268.chunk.js.LICENSE.txt": "/AttentionBoardC3/static/js/2.3bdea268.chunk.js.LICENSE.txt",
     "static/media/13_Woche1.d41ab8e9.mp4": "/AttentionBoardC3/static/media/13_Woche1.d41ab8e9.mp4",
     "static/media/13_Woche2.40c4c2b1.mp4": "/AttentionBoardC3/static/media/13_Woche2.40c4c2b1.mp4",
     "static/media/13_Woche3.58db54f0.mp4": "/AttentionBoardC3/static/media/13_Woche3.58db54f0.mp4",
+    "static/media/13_Woche4.86d4b96d.mp4": "/AttentionBoardC3/static/media/13_Woche4.86d4b96d.mp4",
     "static/media/AttentionBoard.4e388671.png": "/AttentionBoardC3/static/media/AttentionBoard.4e388671.png",
     "static/media/IISM.6500eab5.jpg": "/AttentionBoardC3/static/media/IISM.6500eab5.jpg",
     "static/media/KIT.36547446.png": "/AttentionBoardC3/static/media/KIT.36547446.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0186d7df.js",
-    "static/js/2.adf69702.chunk.js",
+    "static/js/2.3bdea268.chunk.js",
     "static/css/main.1728fe4f.chunk.css",
-    "static/js/main.120e3359.chunk.js"
+    "static/js/main.90afb918.chunk.js"
   ]
 }
